@@ -2,6 +2,12 @@
 My link collection of online tools.
 The links in this collections are not a part of [awesome](https://awesome.re) because they're not all properly curated. Use at your own risk.
 
+
+## Table of Contents
+* [Circuit Simulators](#circuit-simulators)
+* [Programming](#programming)
+* [3D Modeling](#3d-modeling)
+
 ## Circuit Simulators
 * [SimulIDE](https://www.simulide.com/p/home.html)
 * [PartSim](https://www.partsim.com/)
