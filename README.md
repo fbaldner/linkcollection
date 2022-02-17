@@ -1,7 +1,8 @@
 # linkcollection
 My link collection of online tools.
 The links in this collections are not a part of [awesome](https://awesome.re) because they're not all properly curated. Use at your own risk.
-To suggest a link, make a pull request.
+
+To suggest a link, make a pull request or add an issue.
 
 
 ## Table of Contents
