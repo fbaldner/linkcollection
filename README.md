@@ -4,13 +4,19 @@ The links in this collections are not a part of [awesome](https://awesome.re) be
 
 ## Circuit Simulators
 [SimulIDE](https://www.simulide.com/p/home.html)
+
 [PartSim](https://www.partsim.com/)
+
 [Tinkercad](https://www.tinkercad.com/)
+
 
 ## Programming
 [Replit](https://replit.com/): Python
+
 [Google Colab](https://colab.research.google.com/): Jupyter Notebook
+
 [Octave Online](https://octave-online.net/): Octave (same syntax as Matlab)
+
 
 ## 3D Modeling
 [Tinkercad](https://www.tinkercad.com/)
