@@ -2,7 +2,7 @@
 My link collection of interesting tools.
 The links in this collections are not a part of [awesome](https://awesome.re) because they're not all properly curated. Use at your own risk.
 
-To suggest a link, make a pull request or add an issue.
+To suggest a link, add a description or make a suggestion, make a pull request or add an issue.
 
 
 ## Table of Contents
@@ -11,6 +11,9 @@ To suggest a link, make a pull request or add an issue.
   * [Programming](#programming)
   * [3D Modeling](#3d-modeling)
 * [Offline tools](#offline-tools)
+  * [Circuit Simulators](#circuit-simulators-1)
+  * [Programming](#programming-1)
+  * [3D Modeling](#electrical-analysis)
 
 ## Online tools
 ### Circuit Simulators
