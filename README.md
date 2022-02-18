@@ -33,14 +33,14 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 ### LaTeX
 * [Overleaf](https://www.overleaf.com/)
 * Equation editor:
- * [Codecogs](https://latex.codecogs.com/eqneditor/editor.php)
- * [Lagrida](https://latexeditor.lagrida.com/)
- * [LaTeX4Technics](https://www.latex4technics.com/)
- * [SciWeavers](http://www.sciweavers.org/free-online-latex-equation-editor)
- * [HostMath](https://www.hostmath.com/)
+  * [Codecogs](https://latex.codecogs.com/eqneditor/editor.php)
+  * [Lagrida](https://latexeditor.lagrida.com/)
+  * [LaTeX4Technics](https://www.latex4technics.com/)
+  * [SciWeavers](http://www.sciweavers.org/free-online-latex-equation-editor)
+  * [HostMath](https://www.hostmath.com/)
 * Table editor:
- * [Tables Generator](https://www.tablesgenerator.com/)
- * [LaTeX Tables Editor](https://www.latex-tables.com/)
+  * [Tables Generator](https://www.tablesgenerator.com/)
+  * [LaTeX Tables Editor](https://www.latex-tables.com/)
 
 
 ### 3D Modeling
