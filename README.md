@@ -9,11 +9,13 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 * [Online tools](#online-tools)
   * [Circuit Simulators](#circuit-simulators)
   * [Programming](#programming)
+  * [LaTeX](#latex)
   * [3D Modeling](#3d-modeling)
 * [Offline tools](#offline-tools)
   * [Circuit Simulators](#circuit-simulators-1)
+  * [Electrical Analysis](#electrical-analysis)
   * [Programming](#programming-1)
-  * [3D Modeling](#electrical-analysis)
+  * [LaTeX](#latex-1)
 
 ## Online tools
 ### Circuit Simulators
@@ -28,6 +30,19 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 * [Octave Online](https://octave-online.net/): Octave (same syntax as Matlab)
 
 
+### LaTeX
+* [Overleaf](https://www.overleaf.com/)
+* Equation editor:
+ * [Codecogs](https://latex.codecogs.com/eqneditor/editor.php)
+ * [Lagrida](https://latexeditor.lagrida.com/)
+ * [LaTeX4Technics](https://www.latex4technics.com/)
+ * [SciWeavers](http://www.sciweavers.org/free-online-latex-equation-editor)
+ * [HostMath](https://www.hostmath.com/)
+* Table editor:
+ * [Tables Generator](https://www.tablesgenerator.com/)
+ * [LaTeX Tables Editor](https://www.latex-tables.com/)
+
+
 ### 3D Modeling
 * [Tinkercad](https://www.tinkercad.com/)
 * [SketchUp](https://www.sketchup.com/)
@@ -39,12 +54,6 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 * [Tinkercad](https://www.tinkercad.com/)
 
 
-### Programming
-* [Python](https://www.python.org/)
-* [Jupyter Notebook](https://jupyter.org/): A Python package
-* [Octave](https://www.gnu.org/software/octave/index)
-
-
 ### Electrical Analysis
 * [ATPDraw](https://www.atpdraw.net/)
 * [ABB DOC](https://new.abb.com/br/servicos/treinamentos/produtos-eletrificacao/software-dimensionamento-el%C3%A9trico-3.0)
@@ -52,3 +61,14 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 * [Powersim](https://powersimtech.com/)
 * [Programas do CEPEL](https://dre.cepel.br/Programa)
 * [PSCAD](https://www.pscad.com/software/pscad/overview)
+
+
+### Programming
+* [Visual Studio Code](https://code.visualstudio.com/): IDE for pretty much **anything** with plugins (Python, Jupyter, LaTeX...)
+* [Python](https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org/): A Python package
+* [Octave](https://www.gnu.org/software/octave/index)
+
+
+### LaTeX
+* [The LaTeX Project](https://www.latex-project.org/)
