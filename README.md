@@ -67,6 +67,7 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 * [Visual Studio Code](https://code.visualstudio.com/): IDE for pretty much **anything** with plugins (Python, Jupyter, LaTeX...)
 * [Python](https://www.python.org/)
 * [Jupyter Notebook](https://jupyter.org/): A Python package
+* [Thonny](https://thonny.org/): Simple Python IDE with iterative code execution
 * [Octave](https://www.gnu.org/software/octave/index)
 
 
