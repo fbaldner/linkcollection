@@ -11,7 +11,7 @@ To suggest a link, add a description or make a suggestion, make a [pull request 
   * [Programming](#programming)
   * [LaTeX](#latex)
   * [3D Modeling](#3d-modeling)
-  * [Electrical Projects](#electricalprojects)
+  * [Electrical Projects](#electrical-projects)
 * [Offline tools](#offline-tools)
   * [Circuit Simulators](#circuit-simulators-1)
   * [Electrical Analysis](#electrical-analysis)
