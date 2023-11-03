@@ -2,7 +2,7 @@
 My link collection of interesting tools.
 The links in this collections are not a part of [awesome](https://awesome.re) because they're not all properly curated. Use at your own risk.
 
-To suggest a link, add a description or make a suggestion, make a pull request or add an issue.
+To suggest a link, add a description or make a suggestion, make a [pull request or add an issue.
 
 
 ## Table of Contents
@@ -11,6 +11,7 @@ To suggest a link, add a description or make a suggestion, make a pull request o
   * [Programming](#programming)
   * [LaTeX](#latex)
   * [3D Modeling](#3d-modeling)
+  * [Electrical Projects](#electricalprojects)
 * [Offline tools](#offline-tools)
   * [Circuit Simulators](#circuit-simulators-1)
   * [Electrical Analysis](#electrical-analysis)
@@ -48,6 +49,10 @@ To suggest a link, add a description or make a suggestion, make a pull request o
 ### 3D Modeling
 * [Tinkercad](https://www.tinkercad.com/)
 * [SketchUp](https://www.sketchup.com/)
+
+
+### Electrical Projects
+* [WOCA](https://woca.ocalev.com.br/)
 
 ## Offline tools
 ### Circuit Simulators
